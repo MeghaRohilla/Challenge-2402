@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-# Requires PyAudio and PySpeech.
+
+#This is Friday, this can do following tasks for you:
+#Tell how he is, Time, Search Google, Locate map, Open Notepad, Play Song, Empty Recycle bin
+#and Some basic manners - Hi and Bye(on exit)
 
 import speech_recognition as sr
 from time import ctime
